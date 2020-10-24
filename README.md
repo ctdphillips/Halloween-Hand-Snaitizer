@@ -7,7 +7,7 @@
         3. Spooky Eyes from old decoration ( Peep n' Peepers Flashing Eyes Halloween Lights, lots of vendors)
         4. HC-SR501 ultrasonic module
         5. MOSFET 
-        6.Neopixel LEDs
+        6. Neopixel LEDs
         7. 12V Peristaltic Pump
         
        
